@@ -11,7 +11,7 @@ const DaftarSurah = ({ surah, nomorAktif, setNomor, toArabicNumber }) => {
   );
 
   return (
-    <div className="w-full lg:w-1/4 max-h-64 lg:max-h-full overflow-y-auto border-b lg:border-b-0 lg:border-r border-[#48A6A7]">
+    <div className="w-full lg:w-1/4 max-h-64 lg:max-h-full overflow-y-auto border-b lg:border-b-0 border-[#48A6A7]">
       <div className="p-4 sticky top-0 rounded bg-[#48A6A7] z-10">
         <div className="relative">
           <input
